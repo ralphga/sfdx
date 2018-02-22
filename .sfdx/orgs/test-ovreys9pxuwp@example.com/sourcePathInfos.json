@@ -1,0 +1,167 @@
+[
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519337617614,
+            "changeTime": 1519337617614,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519337617615,
+            "changeTime": 1519337617615,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519339147625,
+            "changeTime": 1519339147625,
+            "contentHash": "6899b872e57456c81d7a2b00b0b5d5cee2f995d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519337617615,
+            "changeTime": 1519337617615,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519338332920,
+            "changeTime": 1519338332920,
+            "contentHash": "80065baa7de4fe897a722e89e27b33a32192cd1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes\\myClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes\\myClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 179,
+            "modifiedTime": 1519339154561,
+            "changeTime": 1519339154561,
+            "contentHash": "e55294ddd5525e06d057ad3e6dabf719d25d317c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes\\myClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes\\myClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1519338332920,
+            "changeTime": 1519338332920,
+            "contentHash": "578d0465a3db8f459b6f4f7554765ae8f5048a99",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519339319001,
+            "changeTime": 1519339319001,
+            "contentHash": "9abd5de1b4b00c7a65cc77aa54bc74c1d6ceafee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\pages\\myPage.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\pages\\myPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 310,
+            "modifiedTime": 1519339409538,
+            "changeTime": 1519339409538,
+            "contentHash": "eae56da4244edd1fb5ac74d82e50ee954cf0dbd8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\pages\\myPage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\pages\\myPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 180,
+            "modifiedTime": 1519339319002,
+            "changeTime": 1519339319002,
+            "contentHash": "e3df37dc8a2eb546f179a13b464a1487efe78ee6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest",
+        {
+            "state": "u",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519337659381,
+            "changeTime": 1519337659381,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

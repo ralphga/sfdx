@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519337617614,
+            "changeTime": 1519337617614,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519337617615,
+            "changeTime": 1519337617615,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519338332892,
+            "changeTime": 1519338332892,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519337617615,
+            "changeTime": 1519337617615,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519338332920,
+            "changeTime": 1519338332920,
+            "contentHash": "80065baa7de4fe897a722e89e27b33a32192cd1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes\\myClass.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes\\myClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1519338332918,
+            "changeTime": 1519338332918,
+            "contentHash": "7c2413695d8c9d5c35a246f575779385ccfcc668",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes\\myClass.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest\\force-app\\main\\default\\classes\\myClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1519338332920,
+            "changeTime": 1519338332920,
+            "contentHash": "578d0465a3db8f459b6f4f7554765ae8f5048a99",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\source\\GTS\\TRAINING_DX\\dxTest",
+        {
+            "state": "n",
+            "sourcePath": "C:\\source\\GTS\\TRAINING_DX\\dxTest",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519337659381,
+            "changeTime": 1519337659381,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
